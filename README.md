@@ -8,6 +8,7 @@ solved problems
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Chandann118/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chandann118/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0051-n-queens](https://github.com/Chandann118/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0066-plus-one](https://github.com/Chandann118/leetcode/tree/main/0066-plus-one/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -63,4 +64,12 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Chandann118/leetcode/tree/main/0202-happy-number/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Chandann118/leetcode/tree/main/0051-n-queens/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Chandann118/leetcode/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
