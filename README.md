@@ -12,6 +12,7 @@ solved problems
 | [0066-plus-one](https://github.com/Chandann118/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0085-maximal-rectangle](https://github.com/Chandann118/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Chandann118/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Chandann118/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +61,7 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Chandann118/leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [1929-concatenation-of-array](https://github.com/Chandann118/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
