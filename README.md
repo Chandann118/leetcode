@@ -62,6 +62,7 @@ solved problems
 | [0043-multiply-strings](https://github.com/Chandann118/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0066-plus-one](https://github.com/Chandann118/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0202-happy-number](https://github.com/Chandann118/leetcode/tree/main/0202-happy-number/) | Easy |
+| [0231-power-of-two](https://github.com/Chandann118/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Chandann118/leetcode/tree/main/0268-missing-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -116,5 +117,10 @@ solved problems
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/Chandann118/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Chandann118/leetcode/tree/main/0268-missing-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/Chandann118/leetcode/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
