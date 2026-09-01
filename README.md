@@ -130,6 +130,7 @@ solved problems
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Chandann118/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0705-design-hashset](https://github.com/Chandann118/leetcode/tree/main/0705-design-hashset/) | Easy |
 ## Design
 | Problem Name | Difficulty |
