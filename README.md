@@ -17,6 +17,7 @@ solved problems
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Chandann118/leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0268-missing-number](https://github.com/Chandann118/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0705-design-hashset](https://github.com/Chandann118/leetcode/tree/main/0705-design-hashset/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chandann118/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Chandann118/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -99,6 +100,7 @@ solved problems
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Chandann118/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/Chandann118/leetcode/tree/main/0268-missing-number/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chandann118/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,4 +147,8 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/Chandann118/leetcode/tree/main/0705-design-hashset/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chandann118/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
