@@ -26,6 +26,7 @@ solved problems
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chandann118/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Chandann118/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0202-happy-number](https://github.com/Chandann118/leetcode/tree/main/0202-happy-number/) | Easy |
+| [0344-reverse-string](https://github.com/Chandann118/leetcode/tree/main/0344-reverse-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@ solved problems
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chandann118/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0043-multiply-strings](https://github.com/Chandann118/leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0344-reverse-string](https://github.com/Chandann118/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/Chandann118/leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0520-detect-capital](https://github.com/Chandann118/leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Chandann118/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
