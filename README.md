@@ -19,6 +19,7 @@ solved problems
 | [0705-design-hashset](https://github.com/Chandann118/leetcode/tree/main/0705-design-hashset/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chandann118/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Chandann118/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Chandann118/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +73,7 @@ solved problems
 | [0231-power-of-two](https://github.com/Chandann118/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Chandann118/leetcode/tree/main/0268-missing-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Chandann118/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Chandann118/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
