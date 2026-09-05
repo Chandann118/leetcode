@@ -29,6 +29,7 @@ solved problems
 | [0088-merge-sorted-array](https://github.com/Chandann118/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0202-happy-number](https://github.com/Chandann118/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/Chandann118/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Chandann118/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +144,7 @@ solved problems
 | ------- | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Chandann118/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0705-design-hashset](https://github.com/Chandann118/leetcode/tree/main/0705-design-hashset/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Chandann118/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
