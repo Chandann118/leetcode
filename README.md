@@ -76,6 +76,7 @@ solved problems
 | [0231-power-of-two](https://github.com/Chandann118/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Chandann118/leetcode/tree/main/0268-missing-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Chandann118/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/Chandann118/leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Chandann118/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
