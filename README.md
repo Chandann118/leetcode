@@ -19,6 +19,7 @@ solved problems
 | [0705-design-hashset](https://github.com/Chandann118/leetcode/tree/main/0705-design-hashset/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chandann118/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Chandann118/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Chandann118/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Chandann118/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/Chandann118/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Two Pointers
@@ -91,6 +92,7 @@ solved problems
 | [0268-missing-number](https://github.com/Chandann118/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0705-design-hashset](https://github.com/Chandann118/leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Chandann118/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Chandann118/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +145,7 @@ solved problems
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Chandann118/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0231-power-of-two](https://github.com/Chandann118/leetcode/tree/main/0231-power-of-two/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Chandann118/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,4 +184,8 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chandann118/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Chandann118/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
