@@ -78,6 +78,7 @@ solved problems
 | [0202-happy-number](https://github.com/Chandann118/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Chandann118/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Chandann118/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0836-rectangle-overlap](https://github.com/Chandann118/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Chandann118/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Chandann118/leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Chandann118/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -194,4 +195,8 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chandann118/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Chandann118/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
