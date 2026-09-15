@@ -35,11 +35,13 @@ solved problems
 | [0202-happy-number](https://github.com/Chandann118/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/Chandann118/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Chandann118/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandann118/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Chandann118/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chandann118/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandann118/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +53,7 @@ solved problems
 | [0520-detect-capital](https://github.com/Chandann118/leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Chandann118/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Chandann118/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandann118/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +125,7 @@ solved problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chandann118/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chandann118/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Chandann118/leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandann118/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chandann118/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
