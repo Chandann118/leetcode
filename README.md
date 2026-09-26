@@ -20,6 +20,7 @@ solved problems
 | [0835-image-overlap](https://github.com/Chandann118/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chandann118/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chandann118/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Chandann118/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Chandann118/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chandann118/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chandann118/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -57,6 +58,7 @@ solved problems
 | [0520-detect-capital](https://github.com/Chandann118/leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Chandann118/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chandann118/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Chandann118/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Chandann118/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandann118/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/Chandann118/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -111,6 +113,7 @@ solved problems
 | [0771-jewels-and-stones](https://github.com/Chandann118/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chandann118/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chandann118/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Chandann118/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chandann118/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
