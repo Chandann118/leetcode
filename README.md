@@ -57,6 +57,7 @@ solved problems
 | [0459-repeated-substring-pattern](https://github.com/Chandann118/leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0520-detect-capital](https://github.com/Chandann118/leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Chandann118/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chandann118/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chandann118/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Chandann118/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Chandann118/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -151,6 +152,7 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/Chandann118/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chandann118/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Chandann118/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -238,4 +240,8 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Chandann118/leetcode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chandann118/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
