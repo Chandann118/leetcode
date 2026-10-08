@@ -279,4 +279,5 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Chandann118/leetcode/tree/main/0175-combine-two-tables/) | Easy |
+| [0196-delete-duplicate-emails](https://github.com/Chandann118/leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
