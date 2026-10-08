@@ -279,6 +279,7 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Chandann118/leetcode/tree/main/0175-combine-two-tables/) | Easy |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Chandann118/leetcode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/Chandann118/leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Chandann118/leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 <!---LeetCode Topics End-->
