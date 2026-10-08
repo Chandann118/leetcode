@@ -275,4 +275,8 @@ solved problems
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Chandann118/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Chandann118/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Chandann118/leetcode/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
