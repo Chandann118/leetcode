@@ -22,6 +22,7 @@ solved problems
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chandann118/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Chandann118/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Chandann118/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Chandann118/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chandann118/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chandann118/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Chandann118/leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -49,6 +50,7 @@ solved problems
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Chandann118/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chandann118/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Chandann118/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Chandann118/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandann118/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -151,6 +153,7 @@ solved problems
 | [1096-brace-expansion-ii](https://github.com/Chandann118/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chandann118/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chandann118/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Chandann118/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chandann118/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -192,6 +195,7 @@ solved problems
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Chandann118/leetcode/tree/main/0268-missing-number/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chandann118/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Chandann118/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chandann118/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -226,6 +230,7 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chandann118/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Chandann118/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
