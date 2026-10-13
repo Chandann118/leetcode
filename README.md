@@ -15,6 +15,7 @@ solved problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chandann118/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chandann118/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Chandann118/leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0189-rotate-array](https://github.com/Chandann118/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Chandann118/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0705-design-hashset](https://github.com/Chandann118/leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0835-image-overlap](https://github.com/Chandann118/leetcode/tree/main/0835-image-overlap/) | Medium |
@@ -41,6 +42,7 @@ solved problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chandann118/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chandann118/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Chandann118/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/Chandann118/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Chandann118/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/Chandann118/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Chandann118/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -107,6 +109,7 @@ solved problems
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Chandann118/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0066-plus-one](https://github.com/Chandann118/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0189-rotate-array](https://github.com/Chandann118/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Chandann118/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Chandann118/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Chandann118/leetcode/tree/main/0268-missing-number/) | Easy |
