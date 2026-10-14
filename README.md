@@ -60,6 +60,7 @@ solved problems
 | [2333-minimum-sum-of-squared-difference](https://github.com/Chandann118/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandann118/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Chandann118/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Chandann118/leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Chandann118/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -120,6 +121,7 @@ solved problems
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chandann118/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Chandann118/leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/Chandann118/leetcode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Chandann118/leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3871-count-commas-in-range-ii](https://github.com/Chandann118/leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Chandann118/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Simulation
