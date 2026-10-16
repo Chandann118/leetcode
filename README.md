@@ -10,6 +10,7 @@ solved problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chandann118/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0051-n-queens](https://github.com/Chandann118/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0066-plus-one](https://github.com/Chandann118/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0075-sort-colors](https://github.com/Chandann118/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Chandann118/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Chandann118/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chandann118/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -44,6 +45,7 @@ solved problems
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Chandann118/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chandann118/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chandann118/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0075-sort-colors](https://github.com/Chandann118/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Chandann118/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Chandann118/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Chandann118/leetcode/tree/main/0202-happy-number/) | Easy |
@@ -168,6 +170,7 @@ solved problems
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Chandann118/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Chandann118/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/Chandann118/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Chandann118/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -329,4 +332,12 @@ solved problems
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Chandann118/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Chandann118/leetcode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Chandann118/leetcode/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Chandann118/leetcode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
