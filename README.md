@@ -50,6 +50,7 @@ solved problems
 | [0189-rotate-array](https://github.com/Chandann118/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Chandann118/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/Chandann118/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/Chandann118/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Chandann118/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Chandann118/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Chandann118/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -60,6 +61,7 @@ solved problems
 | [0011-container-with-most-water](https://github.com/Chandann118/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chandann118/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Chandann118/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/Chandann118/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Chandann118/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chandann118/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Chandann118/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
@@ -80,6 +82,7 @@ solved problems
 | [0459-repeated-substring-pattern](https://github.com/Chandann118/leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0520-detect-capital](https://github.com/Chandann118/leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Chandann118/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/Chandann118/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Chandann118/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Chandann118/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Chandann118/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
