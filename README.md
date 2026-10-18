@@ -135,6 +135,7 @@ solved problems
 | [1401-circle-and-rectangle-overlapping](https://github.com/Chandann118/leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chandann118/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chandann118/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [2235-add-two-integers](https://github.com/Chandann118/leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Chandann118/leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/Chandann118/leetcode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Chandann118/leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
