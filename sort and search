@@ -1,0 +1,52 @@
+// Online Java Compiler (Editor)
+// Write and run Java online using this editor.
+
+class Main {
+    
+    public static void main(String[] args) {
+        int[] num = {5, 6,7,1,4,2,2,2,4,41,12};
+        
+        BS(num);
+        
+        System.out.println();
+        System.out.println( "" +BSS(num, 4));
+      
+    }
+    
+     public static void BS(int[] nums){
+        
+        int n = nums.length - 1;
+        
+        for(int i = 0; i < n ; i++){
+            for( int j = 0 ; j < n -i; j ++){
+                if(nums[j] >= nums[j +1]){
+                    int temp = nums[j];
+                    nums[j] = nums[j +1];
+                    nums[j +1] = temp;
+                    
+                }
+            }
+        }
+          for(int i = 0; i < n + 1 ; i++){
+        System.out.print(" " + nums[i]);
+        }
+        
+     }
+    public static int BSS(int nums[], int target){
+        int low = 0 , high = nums.length -1; 
+        
+        while(low <= high){
+            int mid =(low + high) / 2;
+            if(nums[mid] == target){
+                return mid;
+            }else if( nums[mid] < target){
+                low = mid + 1;
+            }else{
+                high  = mid -1;
+            }  
+        }
+         return -1;       
+    }
+
+    
+}
