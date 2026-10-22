@@ -7,7 +7,7 @@ class Solution {
         if(res/ k >= t) count++;
 
         for(int  i = k ; i < arr.length; i++){
-            res += - arr[i-k] +arr[i];
+            res = res- arr[i-k] +arr[i];
         
         if(res / k >= t) count ++;
         }
