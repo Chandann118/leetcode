@@ -3,8 +3,10 @@ class Solution {
         int n = nums.length;
         int ans = Integer.MAX_VALUE;
         for(int  i = 0 ; i< n ; i++){
-            if(nums[i] == i)
+            if(nums[i] == i){
+
             continue;
+            }
 
         
          ans &=nums[i];
