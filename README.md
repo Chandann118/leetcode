@@ -129,6 +129,7 @@ solved problems
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Chandann118/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0066-plus-one](https://github.com/Chandann118/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0070-climbing-stairs](https://github.com/Chandann118/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/Chandann118/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Chandann118/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/Chandann118/leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -210,6 +211,7 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Chandann118/leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0070-climbing-stairs](https://github.com/Chandann118/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/Chandann118/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chandann118/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chandann118/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -388,6 +390,7 @@ solved problems
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Chandann118/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chandann118/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Fermat's Little Theorem
 | Problem Name | Difficulty |
