@@ -140,6 +140,7 @@ solved problems
 | [0268-missing-number](https://github.com/Chandann118/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/Chandann118/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Chandann118/leetcode/tree/main/0342-power-of-four/) | Easy |
+| [0367-valid-perfect-square](https://github.com/Chandann118/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Chandann118/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Chandann118/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Chandann118/leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
@@ -249,6 +250,7 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Chandann118/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/Chandann118/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chandann118/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Chandann118/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Chandann118/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
