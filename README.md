@@ -135,6 +135,7 @@ solved problems
 | [0202-happy-number](https://github.com/Chandann118/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Chandann118/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Chandann118/leetcode/tree/main/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/Chandann118/leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Chandann118/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Chandann118/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Chandann118/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
