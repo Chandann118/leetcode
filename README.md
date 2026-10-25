@@ -22,6 +22,7 @@ solved problems
 | [0835-image-overlap](https://github.com/Chandann118/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Chandann118/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Chandann118/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/Chandann118/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Chandann118/leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chandann118/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chandann118/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -243,6 +244,7 @@ solved problems
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/Chandann118/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0835-image-overlap](https://github.com/Chandann118/leetcode/tree/main/0835-image-overlap/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Chandann118/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -308,6 +310,7 @@ solved problems
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/Chandann118/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chandann118/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -356,6 +359,7 @@ solved problems
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Chandann118/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Chandann118/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/Chandann118/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -387,6 +391,7 @@ solved problems
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/Chandann118/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chandann118/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
