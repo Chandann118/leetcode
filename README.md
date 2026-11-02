@@ -19,6 +19,7 @@ solved problems
 | [0189-rotate-array](https://github.com/Chandann118/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Chandann118/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Chandann118/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Chandann118/leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0705-design-hashset](https://github.com/Chandann118/leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0835-image-overlap](https://github.com/Chandann118/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Chandann118/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -150,6 +151,7 @@ solved problems
 | [0342-power-of-four](https://github.com/Chandann118/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Chandann118/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Chandann118/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Chandann118/leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0507-perfect-number](https://github.com/Chandann118/leetcode/tree/main/0507-perfect-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Chandann118/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Chandann118/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -208,6 +210,7 @@ solved problems
 | [0075-sort-colors](https://github.com/Chandann118/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Chandann118/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/Chandann118/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Chandann118/leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Chandann118/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Chandann118/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Chandann118/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
