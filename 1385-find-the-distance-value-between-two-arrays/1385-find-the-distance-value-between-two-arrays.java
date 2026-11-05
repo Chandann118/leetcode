@@ -3,6 +3,8 @@ class Solution {
         int n = arr1.length;
         int m = arr2.length ;
         int  res = 0;
+
+        Arrays.sort(arr2);
         for( int  i = 0 ; i < n; i++){
             boolean ch = true;
             for( int j = 0 ; j < m; j++){
