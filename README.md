@@ -25,6 +25,7 @@ solved problems
 | [0905-sort-array-by-parity](https://github.com/Chandann118/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Chandann118/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/Chandann118/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Chandann118/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Chandann118/leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Chandann118/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chandann118/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -271,6 +272,7 @@ solved problems
 | [0085-maximal-rectangle](https://github.com/Chandann118/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0835-image-overlap](https://github.com/Chandann118/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Chandann118/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Chandann118/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Chandann118/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/Chandann118/leetcode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Chandann118/leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -347,6 +349,7 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/Chandann118/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Chandann118/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chandann118/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Chandann118/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Chandann118/leetcode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -401,6 +404,7 @@ solved problems
 | [0301-remove-invalid-parentheses](https://github.com/Chandann118/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Chandann118/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/Chandann118/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Chandann118/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Chandann118/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -436,6 +440,7 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/Chandann118/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Chandann118/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chandann118/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Chandann118/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Search Tree
@@ -463,4 +468,8 @@ solved problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Chandann118/leetcode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Chandann118/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 <!---LeetCode Topics End-->
