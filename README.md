@@ -93,6 +93,7 @@ solved problems
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Chandann118/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Chandann118/leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Chandann118/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Chandann118/leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +174,7 @@ solved problems
 | [3525-find-x-value-of-array-ii](https://github.com/Chandann118/leetcode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Chandann118/leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Chandann118/leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Chandann118/leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3871-count-commas-in-range-ii](https://github.com/Chandann118/leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Chandann118/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Chandann118/leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
