@@ -188,6 +188,7 @@ solved problems
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chandann118/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chandann118/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2235-add-two-integers](https://github.com/Chandann118/leetcode/tree/main/2235-add-two-integers/) | Easy |
+| [3360-stone-removal-game](https://github.com/Chandann118/leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Chandann118/leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Chandann118/leetcode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Chandann118/leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -207,6 +208,7 @@ solved problems
 | [1929-concatenation-of-array](https://github.com/Chandann118/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Chandann118/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Chandann118/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3360-stone-removal-game](https://github.com/Chandann118/leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Chandann118/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
